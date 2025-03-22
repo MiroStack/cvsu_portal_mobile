@@ -1,0 +1,6 @@
+com.example.studentportal.test.app-annotation-experimental-1.4.0-0 C:\Users\miros\.gradle\caches\8.9\transforms\bcf4a7215a45056c7f1ce652eab58797\transformed\annotation-experimental-1.4.0\res
+com.example.studentportal.test.app-core-1.5.0-1 C:\Users\miros\.gradle\caches\8.9\transforms\e46394946a98ee393a78dcc30ec2d96c\transformed\core-1.5.0\res
+com.example.studentportal.test.app-androidTest-2 D:\MobileApp\StudentPortal\StudentPortal_cvsu\app\build\generated\res\resValues\androidTest\debug
+com.example.studentportal.test.app-mergeDebugAndroidTestResources-3 D:\MobileApp\StudentPortal\StudentPortal_cvsu\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.studentportal.test.app-mergeDebugAndroidTestResources-4 D:\MobileApp\StudentPortal\StudentPortal_cvsu\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.studentportal.test.app-debugAndroidTest-5 D:\MobileApp\StudentPortal\StudentPortal_cvsu\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

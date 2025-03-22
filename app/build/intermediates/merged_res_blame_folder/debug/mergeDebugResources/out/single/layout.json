@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\fragment_campus_calendar.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_campus_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\fragment__map.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__map.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\activity_map.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\signup_tab_fragment.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\signup_tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\item_event.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\item_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\login_tab_fragment.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\login_tab_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\fragment_subjects.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_subjects.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\fragment_forms.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_forms.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\activity_pdf_viewer.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_pdf_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\list_item.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\fragment__usermanagement.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__usermanagement.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\fragment__grades.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__grades.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\fragment__enroll.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__enroll.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\fragment__feedback_form.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__feedback_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\fragment_schedule.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_schedule.xml"
+    },
+    {
+        "merged": "com.example.studentportal.app-mergeDebugResources-58:/layout/fragment__map.xml",
+        "source": "com.example.studentportal.app-main-61:/layout/fragment__map.xml"
+    },
+    {
+        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-mergeDebugResources-58:\\layout\\fragment_studenthandbook.xml",
+        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_studenthandbook.xml"
+    }
+]

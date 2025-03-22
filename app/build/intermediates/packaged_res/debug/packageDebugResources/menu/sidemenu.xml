@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn ="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Information">
+
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/nav_home"
+                        android:icon="@drawable/icons8_home"
+                        android:title="Home" />
+
+
+                    <item
+                        android:id="@+id/nav_grades"
+                        android:icon="@drawable/icons8_grades"
+                        android:title="Grades" />
+
+                    <item
+                        android:id="@+id/nav_Schedule"
+                        android:icon="@drawable/menu_schedule"
+                        android:title="Schedule" />
+
+
+                    <item
+                        android:id="@+id/nav_Subject"
+                        android:icon="@drawable/icons8_subjects"
+                        android:title="Subjects" />
+
+                    <item
+                        android:id="@+id/nav_Map"
+                        android:icon="@drawable/icons8_map"
+                        android:title="Map" />
+
+
+                </group>
+            </menu>
+
+        </item>
+
+        <item android:title="Others">
+            <menu>
+                <group>
+
+                    <item
+                        android:id="@+id/nav_StudentHandbook"
+                        android:icon="@drawable/icons8_handbook"
+                        android:title="Student Handbook" />
+
+                    <item
+                        android:id="@+id/nav_Forms"
+                        android:icon="@drawable/menu_form"
+                        android:title="Downloadable Forms" />
+
+                    <item
+                        android:id="@+id/nav_FeedbackForm"
+                        android:icon="@drawable/icons8_feedback"
+                        android:title="Feedback" />
+
+
+
+                </group>
+            </menu>
+
+        </item>
+
+        <item android:title="Settings">
+            <menu>
+                <group>
+
+                    <item
+                        android:id="@+id/nav_User"
+                        android:icon="@drawable/icons8_user"
+                        android:title="User Management" />
+
+
+                    <item
+                        android:id="@+id/nav_logout"
+                        android:icon="@drawable/menu_logout"
+                        android:title="Logout" />
+
+
+
+
+                </group>
+            </menu>
+
+        </item>
+
+
+
+    </group>
+
+
+
+</menu>
