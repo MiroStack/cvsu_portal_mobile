@@ -1,12 +1,12 @@
-#Sat Mar 22 11:32:27 PST 2025
-base.0=D\:\\MobileApp\\StudentPortal\\StudentPortal_cvsu\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=D\:\\MobileApp\\StudentPortal\\StudentPortal_cvsu\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=D\:\\MobileApp\\StudentPortal\\StudentPortal_cvsu\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
-base.3=D\:\\MobileApp\\StudentPortal\\StudentPortal_cvsu\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
-base.4=D\:\\MobileApp\\StudentPortal\\StudentPortal_cvsu\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
-base.5=D\:\\MobileApp\\StudentPortal\\StudentPortal_cvsu\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.6=D\:\\MobileApp\\StudentPortal\\StudentPortal_cvsu\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
-base.7=D\:\\MobileApp\\StudentPortal\\StudentPortal_cvsu\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+#Thu Apr 10 09:37:10 PST 2025
+base.0=C\:\\Users\\ASCENT\\Documents\\MobileProject1\\cvsu_portal_mobile\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\ASCENT\\Documents\\MobileProject1\\cvsu_portal_mobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\ASCENT\\Documents\\MobileProject1\\cvsu_portal_mobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+base.3=C\:\\Users\\ASCENT\\Documents\\MobileProject1\\cvsu_portal_mobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.4=C\:\\Users\\ASCENT\\Documents\\MobileProject1\\cvsu_portal_mobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.5=C\:\\Users\\ASCENT\\Documents\\MobileProject1\\cvsu_portal_mobile\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.6=C\:\\Users\\ASCENT\\Documents\\MobileProject1\\cvsu_portal_mobile\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.7=C\:\\Users\\ASCENT\\Documents\\MobileProject1\\cvsu_portal_mobile\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=13/classes.dex

@@ -1537,6 +1537,7 @@ color foreground_material_dark
 color foreground_material_light
 color gray
 color green
+color header_background
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color itemFocusedColor
@@ -3308,6 +3309,7 @@ drawable notify_panel_notification_icon_bg
 drawable password_icon
 drawable red_border
 drawable setting_menu
+drawable table_border
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3457,6 +3459,10 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
+id btn_conditional
+id btn_dropped
+id btn_failed
+id btn_incomplete
 id button
 id button2
 id button3
@@ -3534,6 +3540,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id dialog
 id dialog_button
 id dimensions
 id direct
@@ -3760,7 +3767,6 @@ id negativeButton
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
-id newGrade
 id newPassword
 id newPasswordLayout
 id noScroll
@@ -3954,7 +3960,6 @@ id textView
 id textView3
 id textView4
 id textView6
-id textView8
 id textViewDate
 id textViewTitle
 id text_input_end_icon
@@ -4168,6 +4173,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout dialog_layout
 layout fragment__enroll
 layout fragment__feedback_form
 layout fragment__grades

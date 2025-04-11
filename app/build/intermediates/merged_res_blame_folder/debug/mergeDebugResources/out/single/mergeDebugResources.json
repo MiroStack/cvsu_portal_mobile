@@ -1,546 +1,550 @@
 [
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-mdpi_icon.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-mdpi\\icon.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_css_datatables_bootstrap_min.css.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\css_datatables_bootstrap_min.css"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment_schedule.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_schedule.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\navigation_main.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\navigation\\main.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_baseline_business_24.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\baseline_business_24.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_grade.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_grade.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_form.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_form.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_map.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_map.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_schedule.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_schedule.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment__feedback_form.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__feedback_form.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_activity_map.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_map.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_js_responsive_bootstrap_min.js.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\js_responsive_bootstrap_min.js"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_form.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_form.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_alert.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_alert.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_jquery_datatables_min.js.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\jquery_datatables_min.js"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_signup_tab_fragment.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\signup_tab_fragment.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\font_poppinssemibold.ttf.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\font\\poppinssemibold.ttf"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\button_bg.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_curve_bg_white2.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\curve_bg_white2.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\font_poppinsbold.ttf.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\font\\poppinsbold.ttf"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_login_tab_fragment.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\login_tab_fragment.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_feedback.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_feedback.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_schedule.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_schedule.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\list_item.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_button_bg.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\button_bg.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\font_poppinsregular.ttf.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\font\\poppinsregular.ttf"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_baseline_business_24.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\baseline_business_24.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_lessopacitybackground.png.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\lessopacitybackground.png"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxxhdpi_icon.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxxhdpi\\icon.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_datatable2023.html.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\datatable2023.html"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_map.html.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\map.html"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment_subjects.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_subjects.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-hdpi_icon_round.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-hdpi\\icon_round.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxxhdpi_icon.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxxhdpi\\icon.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment_dashboard.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_dashboard.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-hdpi_icon.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-hdpi\\icon.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\font_poppinsthin.ttf.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\font\\poppinsthin.ttf"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_message_regular.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\message_regular.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_cvsu_map.jpg.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\cvsu_map.jpg"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_location_dot_solid.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\location_dot_solid.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_activity_splash_screen.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_lessopacitybackground.png.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\lessopacitybackground.png"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_logout.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_logout.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_datatable2023.html.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\datatable2023.html"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_signup_tab_fragment.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\signup_tab_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_vision_icon1.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\vision_icon1.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment__map.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__map.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_jquery_datatables_min.js.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\jquery_datatables_min.js"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icon1.png.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icon1.png"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_home.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_home.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-mdpi_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-mdpi\\icon_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_enroll.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_enroll.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\font_poppinslight.ttf.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\font\\poppinslight.ttf"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_fixedheader_bootstrap_min.css.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\fixedheader_bootstrap_min.css"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_css_responsive_bootstrap_min.css.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\css_responsive_bootstrap_min.css"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_background2.png.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\background2.png"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_red_border.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\red_border.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_applogo.png.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\applogo.png"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\font_poppinsthin.ttf.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\font\\poppinsthin.ttf"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-anydpi-v26_icon_round.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-anydpi-v26\\icon_round.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxxhdpi_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxxhdpi\\icon_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_item_event.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\item_event.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\logo.png"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_home.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_home.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_subjects.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_subjects.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_curve_bg_white3.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\curve_bg_white3.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment_forms.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_forms.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_feedback.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_feedback.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_password_icon.png.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\password_icon.png"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_form_bg.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\form_bg.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\baseline_arrow_back_24.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xhdpi_icon.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xhdpi\\icon.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_curve_bg_green.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\curve_bg_green.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-mdpi_icon_round.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-mdpi\\icon_round.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxhdpi_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxhdpi\\icon_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment_forms.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_forms.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment_subjects.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_subjects.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_add_icon.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\add_icon.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_cvsu_map.jpg.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\cvsu_map.jpg"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icon2.png.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icon2.png"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment__enroll.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__enroll.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_home.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_home.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_css_datatables_bootstrap_min.css.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\css_datatables_bootstrap_min.css"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_add_icon.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\add_icon.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_location_dot_solid.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\location_dot_solid.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_grade.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_grade.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-hdpi_icon.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-hdpi\\icon.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_background3.png.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\background3.png"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_setting_menu.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\setting_menu.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment_campus_calendar.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_campus_calendar.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_splash_screen.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-mdpi_icon_foreground.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-mdpi\\icon_foreground.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_curve_bg_white3.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\curve_bg_white3.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment__grades.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__grades.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_message_regular.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\message_regular.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\dialog_layout.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment_schedule.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_schedule.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment_campus_calendar.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_campus_calendar.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_logo.png.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\logo.png"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_password_icon.png.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\password_icon.png"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_vision_icon.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\vision_icon.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_handbook.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_handbook.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-hdpi_icon_foreground.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-hdpi\\icon_foreground.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_activity_pdf_viewer.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_pdf_viewer.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_kebab_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\kebab_svgrepo_com.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_js_datatables_bootstrap_min.js.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\js_datatables_bootstrap_min.js"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_setting_menu.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\setting_menu.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_logo2.png.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\logo2.png"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_baseline_arrow_back_24.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\baseline_arrow_back_24.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxhdpi_icon_round.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxhdpi\\icon_round.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_logo2.png.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\logo2.png"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icon4.png.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icon4.png"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_vision_icon1.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\vision_icon1.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\font_poppinsmedium.ttf.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\font\\poppinsmedium.ttf"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\font_poppinsmedium.ttf.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\font\\poppinsmedium.ttf"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_tree_solid.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\tree_solid.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icon3.png.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icon3.png"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\menu_sidemenu.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\menu\\sidemenu.xml"
     },
     {
-        "merged": "com.example.studentportal.app-debug-59:/layout_fragment__map.xml.flat",
-        "source": "com.example.studentportal.app-main-61:/layout/fragment__map.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_background2.png.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\background2.png"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_subjects.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_subjects.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\navigation_main.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\navigation\\main.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxxhdpi_icon_round.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxxhdpi\\icon_round.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_datatables_fixedheader_min.js.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\datatables_fixedheader_min.js"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxxhdpi_icon_foreground.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxxhdpi\\icon_foreground.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-mdpi_icon.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-mdpi\\icon.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_kebab_svgrepo_com.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\kebab_svgrepo_com.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_mission_icon.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\mission_icon.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_background_bg.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\background_bg.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_calendar_menu.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\calendar_menu.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_user.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_user.xml"
+        "merged": "com.example.studentportal.app-debug-59:/drawable_table_border.xml.flat",
+        "source": "com.example.studentportal.app-main-61:/drawable/table_border.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment_studenthandbook.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_studenthandbook.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xhdpi_icon.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xhdpi\\icon.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_map.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_map.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_curve_bg_white2.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\curve_bg_white2.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_activity_pdf_viewer.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_pdf_viewer.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_curve_bg_yellow.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\curve_bg_yellow.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_calendar_menu.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\calendar_menu.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-anydpi-v26_icon_round.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-anydpi-v26\\icon_round.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_alert.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_alert.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment__map.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__map.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icon_background.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icon_background.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_schedule.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_schedule.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icon2.png.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icon2.png"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_datatables_fixedheader_min.js.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\datatables_fixedheader_min.js"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_handbook.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_handbook.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_enroll.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_enroll.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xhdpi_icon_foreground.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xhdpi\\icon_foreground.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_background1.png.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\background1.png"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_item_event.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\item_event.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_handbook.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_handbook.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_handbook.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_handbook.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_logout.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_logout.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxhdpi_icon_foreground.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxhdpi\\icon_foreground.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xhdpi_icon_round.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xhdpi\\icon_round.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_background1.png.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\background1.png"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_map.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_red_border.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\red_border.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_feedback.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_feedback.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_curve_bg_white.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\curve_bg_white.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\font_poppinsbold.ttf.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\font\\poppinsbold.ttf"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_curve_bg_white.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\curve_bg_white.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-hdpi_icon_round.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-hdpi\\icon_round.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_background_bg.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\background_bg.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_curve_bg_yellow.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\curve_bg_yellow.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_grades.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_grades.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_datatables_responsive_min.js.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\datatables_responsive_min.js"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\menu_kebab_menu.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\menu\\kebab_menu.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_map_solid.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\map_solid.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment__enroll.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__enroll.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\menu_sidemenu.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\menu\\sidemenu.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_js_responsive_bootstrap_min.js.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\js_responsive_bootstrap_min.js"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\font_poppinsregular.ttf.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\font\\poppinsregular.ttf"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment_studenthandbook.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment_studenthandbook.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_background.png.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\background.png"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_calendar.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_calendar.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_border_bg.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\border_bg.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment__usermanagement.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__usermanagement.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_tree_solid.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\tree_solid.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icon_background.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icon_background.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_mission_icon.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\mission_icon.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_user.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_user.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_jquery.js.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\jquery.js"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_bootstrap_min.css.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\bootstrap_min.css"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxhdpi_icon_round.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxhdpi\\icon_round.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_map_solid.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\map_solid.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_schedule.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_schedule.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_subjects.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_subjects.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\font_poppinslight.ttf.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\font\\poppinslight.ttf"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_vision_icon.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\vision_icon.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_jquery.js.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\jquery.js"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_subjects.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_subjects.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_inactive_dot.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\inactive_dot.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_inactive_dot.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\inactive_dot.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_map.html.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\map.html"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_curve_bg_green.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\curve_bg_green.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_calendar.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_calendar.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_feedback.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_feedback.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xhdpi_icon_round.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xhdpi\\icon_round.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_home.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_home.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_background.png.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\background.png"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-mdpi_icon_round.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-mdpi\\icon_round.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\navigation\\nav_graph.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_login_tab_fragment.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\login_tab_fragment.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxhdpi_icon.webp.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxhdpi\\icon.webp"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-hdpi_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-hdpi\\icon_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_map.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_map.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icon3.png.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icon3.png"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment__feedback_form.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__feedback_form.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_applogo.png.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\applogo.png"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_list_item.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\list_item.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_datatables_responsive_min.js.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\datatables_responsive_min.js"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icon1.png.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icon1.png"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_form_bg.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\form_bg.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_background3.png.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\background3.png"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-anydpi-v26_icon.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-anydpi-v26\\icon.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_fixedheader_bootstrap_min.css.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\fixedheader_bootstrap_min.css"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\font_poppinssemibold.ttf.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\font\\poppinssemibold.ttf"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment__usermanagement.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__usermanagement.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_css_responsive_bootstrap_min.css.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\css_responsive_bootstrap_min.css"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icons8_grades.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icons8_grades.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xhdpi_icon_foreground.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xhdpi\\icon_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_icon4.png.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\icon4.png"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_menu_map.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\menu_map.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_bootstrap_min.css.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\bootstrap_min.css"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\layout_fragment__grades.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\layout\\fragment__grades.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\drawable_border_bg.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\drawable\\border_bg.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-anydpi-v26_icon.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-anydpi-v26\\icon.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\raw_js_datatables_bootstrap_min.js.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\raw\\js_datatables_bootstrap_min.js"
     },
     {
-        "merged": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\menu_kebab_menu.xml.flat",
-        "source": "C:\\Users\\miros\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\menu\\kebab_menu.xml"
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxhdpi_icon.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxhdpi\\icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-debug-59:\\mipmap-xxxhdpi_icon_round.webp.flat",
+        "source": "C:\\Users\\ASCENT\\.gradle\\daemon\\8.9\\com.example.studentportal.app-main-61:\\mipmap-xxxhdpi\\icon_round.webp"
     }
 ]

@@ -4,7 +4,7 @@
             "outputFile": "com.example.studentportal.app-mergeDebugResources-57:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\MobileApp\\StudentPortal\\StudentPortal_cvsu\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "source": "C:\\Users\\ASCENT\\Documents\\MobileProject1\\cvsu_portal_mobile\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "6",

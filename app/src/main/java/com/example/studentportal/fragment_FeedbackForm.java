@@ -109,6 +109,7 @@ public class fragment_FeedbackForm extends Fragment {
         int efficiencyRating = getSelectedRating(rgEfficiency);
         int cleanlinessRating = getSelectedRating(rgCleanliness);
         int comfortRating = getSelectedRating(rgComfort);
+        String comment = etComment.getText().toString().trim();
         String formattedDate = "";
         int rating = (courtesyRating + qualityRating + timelinessRating + efficiencyRating + cleanlinessRating + comfortRating) / 6;
         LocalDateTime now = null;
@@ -129,6 +130,7 @@ public class fragment_FeedbackForm extends Fragment {
         model.setRating(rating);
         model.setRespondentRole(respondentRole);
         model.setSubmittedDate(formattedDate);
+        model.setComment(comment);
         apiService.submitFeedback(model).enqueue(new Callback<ResponseModel>() {
             @Override
             public void onResponse(Call<ResponseModel> call, Response<ResponseModel> response) {

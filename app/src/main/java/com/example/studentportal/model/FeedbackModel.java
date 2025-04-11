@@ -5,6 +5,16 @@ public class FeedbackModel {
     private String respondentRole;
     private String purpose;
 
+    private String comment;
+
+    public String getComment() {
+        return comment;
+    }
+
+    public void setComment(String comment) {
+        this.comment = comment;
+    }
+
     public String getSubmittedDate() {
         return submittedDate;
     }

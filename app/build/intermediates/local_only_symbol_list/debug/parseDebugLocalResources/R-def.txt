@@ -5,6 +5,7 @@ color black
 color dirtyWhite
 color gray
 color green
+color header_background
 color white
 dimen fab_margin
 drawable add_icon
@@ -66,6 +67,7 @@ drawable mission_icon
 drawable password_icon
 drawable red_border
 drawable setting_menu
+drawable table_border
 drawable tree_solid
 drawable vision_icon
 drawable vision_icon1
@@ -104,6 +106,10 @@ id action_user_to_dashboard
 id action_view_details
 id agency_et
 id backButton_id
+id btn_conditional
+id btn_dropped
+id btn_failed
+id btn_incomplete
 id button
 id button2
 id button3
@@ -121,6 +127,7 @@ id constraintLayout
 id constraintLayout2
 id courtesy_rdgrp
 id department
+id dialog
 id drawerLayout
 id dtv_table
 id efficiency_rdgrp
@@ -169,7 +176,6 @@ id nav_graph
 id nav_home
 id nav_logout
 id nav_view
-id newGrade
 id newPassword
 id newPasswordLayout
 id oldPassword
@@ -213,7 +219,6 @@ id textView
 id textView3
 id textView4
 id textView6
-id textView8
 id textViewDate
 id textViewTitle
 id textview1
@@ -229,6 +234,7 @@ layout activity_main
 layout activity_map
 layout activity_pdf_viewer
 layout activity_splash_screen
+layout dialog_layout
 layout fragment__enroll
 layout fragment__feedback_form
 layout fragment__grades

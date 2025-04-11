@@ -4,7 +4,7 @@
             "outputFile": "com.example.studentportal.app-mergeDebugResources-57:/values-uk-rUA/values-uk-rUA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\miros\\.gradle\\caches\\8.9\\transforms\\213e52e1fd84fe11edc3208fbd17b761\\transformed\\material-calendar-view-1.9.0-rc03\\res\\values-uk-rUA\\values-uk-rUA.xml",
+                    "source": "C:\\Users\\ASCENT\\.gradle\\caches\\8.9\\transforms\\213e52e1fd84fe11edc3208fbd17b761\\transformed\\material-calendar-view-1.9.0-rc03\\res\\values-uk-rUA\\values-uk-rUA.xml",
                     "from": {
                         "startLines": "2,11,25,26,27,28,29,30,31,32,33,34",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",

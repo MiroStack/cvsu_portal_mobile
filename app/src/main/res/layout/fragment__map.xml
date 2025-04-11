@@ -36,21 +36,15 @@
 
             <TextView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:text="@string/cavite_state_university_naic"
                 android:textStyle="bold"
+                android:gravity="center"
                 android:layout_gravity="center"
                 android:textColor="@color/black"
                 android:textSize="16sp" />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/emergency_evacuation_assembly_area"
-                android:textStyle="normal"
-                android:layout_gravity="center"
-                android:textColor="@color/black"
-                android:textSize="12sp" />
+
 
         </LinearLayout>
 
@@ -203,8 +197,8 @@
         android:drawablePadding="8dp"
         android:drawableStart="@drawable/message_regular"
         android:textAlignment="center"
-        android:backgroundTint="@color/black"
-        android:textColor="@color/white"
+        android:backgroundTint="#FFCC00"
+        android:textColor="@color/black"
         android:layout_marginHorizontal="8dp"
         android:text="FEEDBACK"
         app:layout_constraintTop_toBottomOf="@id/cardView2" />

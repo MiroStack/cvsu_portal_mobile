@@ -4,6 +4,7 @@ package com.example.studentportal.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
@@ -24,7 +25,16 @@ public final class FragmentDashboardBinding implements ViewBinding {
   private final FrameLayout rootView;
 
   @NonNull
-  public final LinearLayout cardContainer;
+  public final Button btnConditional;
+
+  @NonNull
+  public final Button btnDropped;
+
+  @NonNull
+  public final Button btnFailed;
+
+  @NonNull
+  public final Button btnIncomplete;
 
   @NonNull
   public final CardView cardView3;
@@ -48,25 +58,22 @@ public final class FragmentDashboardBinding implements ViewBinding {
   public final LinearLayout missionContainer;
 
   @NonNull
-  public final TextView newGrade;
-
-  @NonNull
   public final TextView textView3;
 
   @NonNull
   public final TextView textView6;
 
-  @NonNull
-  public final TextView textView8;
-
-  private FragmentDashboardBinding(@NonNull FrameLayout rootView,
-      @NonNull LinearLayout cardContainer, @NonNull CardView cardView3, @NonNull CardView cardView4,
-      @NonNull TextView etName, @NonNull ImageView imageView1, @NonNull ImageView imageView2,
+  private FragmentDashboardBinding(@NonNull FrameLayout rootView, @NonNull Button btnConditional,
+      @NonNull Button btnDropped, @NonNull Button btnFailed, @NonNull Button btnIncomplete,
+      @NonNull CardView cardView3, @NonNull CardView cardView4, @NonNull TextView etName,
+      @NonNull ImageView imageView1, @NonNull ImageView imageView2,
       @NonNull MaterialDivider materialDivider, @NonNull LinearLayout missionContainer,
-      @NonNull TextView newGrade, @NonNull TextView textView3, @NonNull TextView textView6,
-      @NonNull TextView textView8) {
+      @NonNull TextView textView3, @NonNull TextView textView6) {
     this.rootView = rootView;
-    this.cardContainer = cardContainer;
+    this.btnConditional = btnConditional;
+    this.btnDropped = btnDropped;
+    this.btnFailed = btnFailed;
+    this.btnIncomplete = btnIncomplete;
     this.cardView3 = cardView3;
     this.cardView4 = cardView4;
     this.etName = etName;
@@ -74,10 +81,8 @@ public final class FragmentDashboardBinding implements ViewBinding {
     this.imageView2 = imageView2;
     this.materialDivider = materialDivider;
     this.missionContainer = missionContainer;
-    this.newGrade = newGrade;
     this.textView3 = textView3;
     this.textView6 = textView6;
-    this.textView8 = textView8;
   }
 
   @Override
@@ -107,9 +112,27 @@ public final class FragmentDashboardBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.cardContainer;
-      LinearLayout cardContainer = ViewBindings.findChildViewById(rootView, id);
-      if (cardContainer == null) {
+      id = R.id.btn_conditional;
+      Button btnConditional = ViewBindings.findChildViewById(rootView, id);
+      if (btnConditional == null) {
+        break missingId;
+      }
+
+      id = R.id.btn_dropped;
+      Button btnDropped = ViewBindings.findChildViewById(rootView, id);
+      if (btnDropped == null) {
+        break missingId;
+      }
+
+      id = R.id.btn_failed;
+      Button btnFailed = ViewBindings.findChildViewById(rootView, id);
+      if (btnFailed == null) {
+        break missingId;
+      }
+
+      id = R.id.btn_incomplete;
+      Button btnIncomplete = ViewBindings.findChildViewById(rootView, id);
+      if (btnIncomplete == null) {
         break missingId;
       }
 
@@ -155,12 +178,6 @@ public final class FragmentDashboardBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.newGrade;
-      TextView newGrade = ViewBindings.findChildViewById(rootView, id);
-      if (newGrade == null) {
-        break missingId;
-      }
-
       id = R.id.textView3;
       TextView textView3 = ViewBindings.findChildViewById(rootView, id);
       if (textView3 == null) {
@@ -173,15 +190,9 @@ public final class FragmentDashboardBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.textView8;
-      TextView textView8 = ViewBindings.findChildViewById(rootView, id);
-      if (textView8 == null) {
-        break missingId;
-      }
-
-      return new FragmentDashboardBinding((FrameLayout) rootView, cardContainer, cardView3,
-          cardView4, etName, imageView1, imageView2, materialDivider, missionContainer, newGrade,
-          textView3, textView6, textView8);
+      return new FragmentDashboardBinding((FrameLayout) rootView, btnConditional, btnDropped,
+          btnFailed, btnIncomplete, cardView3, cardView4, etName, imageView1, imageView2,
+          materialDivider, missionContainer, textView3, textView6);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
