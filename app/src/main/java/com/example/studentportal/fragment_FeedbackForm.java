@@ -111,7 +111,8 @@ public class fragment_FeedbackForm extends Fragment {
         int comfortRating = getSelectedRating(rgComfort);
         String comment = etComment.getText().toString().trim();
         String formattedDate = "";
-        int rating = (courtesyRating + qualityRating + timelinessRating + efficiencyRating + cleanlinessRating + comfortRating) / 6;
+        double rating = (courtesyRating + qualityRating + timelinessRating + efficiencyRating + cleanlinessRating + comfortRating) / 6;
+
         LocalDateTime now = null;
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
             now = LocalDateTime.now();

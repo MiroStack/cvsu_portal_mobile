@@ -43,6 +43,7 @@
         android:label="CvSU-N: M-Kiosk"
         android:roundIcon="@mipmap/icon_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/Theme.StudentPortal"
         android:usesCleartextTraffic="true" >
         <activity
