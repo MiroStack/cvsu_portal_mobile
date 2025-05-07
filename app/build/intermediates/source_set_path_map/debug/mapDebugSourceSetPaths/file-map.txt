@@ -52,11 +52,11 @@ com.example.studentportal.app-navigation-fragment-2.7.7-50 C:\Users\ASCENT\.grad
 com.example.studentportal.app-firebase-common-21.0.0-51 C:\Users\ASCENT\.gradle\caches\8.9\transforms\f4aa448931f9b0388ccb107a56fae2f1\transformed\firebase-common-21.0.0\res
 com.example.studentportal.app-cardview-1.0.0-52 C:\Users\ASCENT\.gradle\caches\8.9\transforms\f70588c61e6bb82f17db60607429a796\transformed\cardview-1.0.0\res
 com.example.studentportal.app-lifecycle-runtime-ktx-2.6.2-53 C:\Users\ASCENT\.gradle\caches\8.9\transforms\f7e8a19bab2cbad9d1f5bf9e978fe2b9\transformed\lifecycle-runtime-ktx-2.6.2\res
-com.example.studentportal.app-pngs-54 C:\Users\ASCENT\Documents\MobileProject1\cvsu_portal_mobile\app\build\generated\res\pngs\debug
-com.example.studentportal.app-res-55 C:\Users\ASCENT\Documents\MobileProject1\cvsu_portal_mobile\app\build\generated\res\processDebugGoogleServices
-com.example.studentportal.app-resValues-56 C:\Users\ASCENT\Documents\MobileProject1\cvsu_portal_mobile\app\build\generated\res\resValues\debug
-com.example.studentportal.app-packageDebugResources-57 C:\Users\ASCENT\Documents\MobileProject1\cvsu_portal_mobile\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.studentportal.app-packageDebugResources-58 C:\Users\ASCENT\Documents\MobileProject1\cvsu_portal_mobile\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.studentportal.app-debug-59 C:\Users\ASCENT\Documents\MobileProject1\cvsu_portal_mobile\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.studentportal.app-debug-60 C:\Users\ASCENT\Documents\MobileProject1\cvsu_portal_mobile\app\src\debug\res
-com.example.studentportal.app-main-61 C:\Users\ASCENT\Documents\MobileProject1\cvsu_portal_mobile\app\src\main\res
+com.example.studentportal.app-pngs-54 C:\Users\ASCENT\Documents\Miro Files\project\cvsu_portal_mobile\app\build\generated\res\pngs\debug
+com.example.studentportal.app-res-55 C:\Users\ASCENT\Documents\Miro Files\project\cvsu_portal_mobile\app\build\generated\res\processDebugGoogleServices
+com.example.studentportal.app-resValues-56 C:\Users\ASCENT\Documents\Miro Files\project\cvsu_portal_mobile\app\build\generated\res\resValues\debug
+com.example.studentportal.app-packageDebugResources-57 C:\Users\ASCENT\Documents\Miro Files\project\cvsu_portal_mobile\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.studentportal.app-packageDebugResources-58 C:\Users\ASCENT\Documents\Miro Files\project\cvsu_portal_mobile\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.studentportal.app-debug-59 C:\Users\ASCENT\Documents\Miro Files\project\cvsu_portal_mobile\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.studentportal.app-debug-60 C:\Users\ASCENT\Documents\Miro Files\project\cvsu_portal_mobile\app\src\debug\res
+com.example.studentportal.app-main-61 C:\Users\ASCENT\Documents\Miro Files\project\cvsu_portal_mobile\app\src\main\res

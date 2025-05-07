@@ -39,13 +39,13 @@ public class FeedbackModel {
         this.purpose = purpose;
     }
 
-    public int getRating() {
+    public double getRating() {
         return rating;
     }
 
-    public void setRating(int rating) {
+    public void setRating(double rating) {
         this.rating = rating;
     }
 
-    private int rating;
+    private double rating;
 }

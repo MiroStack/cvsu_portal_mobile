@@ -4,7 +4,7 @@
             "outputFile": "com.example.studentportal.app-mergeDebugResources-57:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ASCENT\\Documents\\MobileProject1\\cvsu_portal_mobile\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\ASCENT\\Documents\\Miro Files\\project\\cvsu_portal_mobile\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
