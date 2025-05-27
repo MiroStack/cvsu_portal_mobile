@@ -4,7 +4,11 @@
             "outputFile": "com.example.studentportal.app-mergeDebugResources-57:/values-nl-rNL/values-nl-rNL.xml",
             "map": [
                 {
+<<<<<<< HEAD
                     "source": "C:\\Users\\miros\\.gradle\\caches\\8.9\\transforms\\213e52e1fd84fe11edc3208fbd17b761\\transformed\\material-calendar-view-1.9.0-rc03\\res\\values-nl-rNL\\values-nl-rNL.xml",
+=======
+                    "source": "C:\\Program Files\\Java\\jdk-17\\caches\\8.9\\transforms\\213e52e1fd84fe11edc3208fbd17b761\\transformed\\material-calendar-view-1.9.0-rc03\\res\\values-nl-rNL\\values-nl-rNL.xml",
+>>>>>>> 3a8cbd7d56a3da4e9f4dade46d5bf50b4b2bce58
                     "from": {
                         "startLines": "2,16,17,18,19,20,21,22,23,24,25",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

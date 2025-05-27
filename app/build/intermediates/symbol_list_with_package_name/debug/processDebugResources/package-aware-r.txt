@@ -1977,6 +1977,8 @@ color m3_timepicker_secondary_text_button_ripple_color
 color m3_timepicker_secondary_text_button_text_color
 color m3_timepicker_time_input_stroke_color
 color m3_tonal_button_ripple_color_selector
+color maroon
+color maroon_light
 color material_blue_grey_800
 color material_blue_grey_900
 color material_blue_grey_950
@@ -2222,6 +2224,8 @@ color switch_thumb_normal_material_light
 color tooltip_background_dark
 color tooltip_background_light
 color white
+color yellow
+color yellow_light
 dimen abbreviation_text_size_max
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav

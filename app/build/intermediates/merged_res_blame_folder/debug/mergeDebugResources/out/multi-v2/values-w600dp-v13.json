@@ -4,7 +4,11 @@
             "outputFile": "com.example.studentportal.app-mergeDebugResources-57:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
+<<<<<<< HEAD
                     "source": "D:\\MobileApp\\cvsu_portal_mobile\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+=======
+                    "source": "C:\\Users\\ASCENT\\Documents\\Miro Files\\project\\cvsu_portal_mobile\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+>>>>>>> 3a8cbd7d56a3da4e9f4dade46d5bf50b4b2bce58
                     "from": {
                         "startLines": "1",
                         "startColumns": "6",

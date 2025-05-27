@@ -7,6 +7,7 @@ import android.view.ViewGroup;
 import android.widget.AutoCompleteTextView;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TableLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -23,6 +24,9 @@ import java.lang.String;
 public final class FragmentSubjectsBinding implements ViewBinding {
   @NonNull
   private final FrameLayout rootView;
+
+  @NonNull
+  public final LinearLayout cardContainer;
 
   @NonNull
   public final ImageView imageView1;
@@ -42,11 +46,13 @@ public final class FragmentSubjectsBinding implements ViewBinding {
   @NonNull
   public final TextView textView4;
 
-  private FragmentSubjectsBinding(@NonNull FrameLayout rootView, @NonNull ImageView imageView1,
+  private FragmentSubjectsBinding(@NonNull FrameLayout rootView,
+      @NonNull LinearLayout cardContainer, @NonNull ImageView imageView1,
       @NonNull MaterialDivider materialDivider, @NonNull AutoCompleteTextView role,
       @NonNull TableLayout tableLayout, @NonNull TextInputLayout textInputLayout,
       @NonNull TextView textView4) {
     this.rootView = rootView;
+    this.cardContainer = cardContainer;
     this.imageView1 = imageView1;
     this.materialDivider = materialDivider;
     this.role = role;
@@ -82,6 +88,12 @@ public final class FragmentSubjectsBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.cardContainer;
+      LinearLayout cardContainer = ViewBindings.findChildViewById(rootView, id);
+      if (cardContainer == null) {
+        break missingId;
+      }
+
       id = R.id.imageView1;
       ImageView imageView1 = ViewBindings.findChildViewById(rootView, id);
       if (imageView1 == null) {
@@ -118,8 +130,8 @@ public final class FragmentSubjectsBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentSubjectsBinding((FrameLayout) rootView, imageView1, materialDivider, role,
-          tableLayout, textInputLayout, textView4);
+      return new FragmentSubjectsBinding((FrameLayout) rootView, cardContainer, imageView1,
+          materialDivider, role, tableLayout, textInputLayout, textView4);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

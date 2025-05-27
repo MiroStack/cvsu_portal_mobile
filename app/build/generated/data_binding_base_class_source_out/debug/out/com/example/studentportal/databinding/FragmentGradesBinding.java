@@ -7,6 +7,7 @@ import android.view.ViewGroup;
 import android.widget.AutoCompleteTextView;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TableLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -23,6 +24,9 @@ import java.lang.String;
 public final class FragmentGradesBinding implements ViewBinding {
   @NonNull
   private final FrameLayout rootView;
+
+  @NonNull
+  public final LinearLayout cardContainer;
 
   @NonNull
   public final ImageView imageView1;
@@ -45,11 +49,12 @@ public final class FragmentGradesBinding implements ViewBinding {
   @NonNull
   public final TextView textView6;
 
-  private FragmentGradesBinding(@NonNull FrameLayout rootView, @NonNull ImageView imageView1,
-      @NonNull MaterialDivider materialDivider, @NonNull AutoCompleteTextView role,
-      @NonNull FrameLayout s, @NonNull TableLayout tableLayout,
+  private FragmentGradesBinding(@NonNull FrameLayout rootView, @NonNull LinearLayout cardContainer,
+      @NonNull ImageView imageView1, @NonNull MaterialDivider materialDivider,
+      @NonNull AutoCompleteTextView role, @NonNull FrameLayout s, @NonNull TableLayout tableLayout,
       @NonNull TextInputLayout textInputLayout, @NonNull TextView textView6) {
     this.rootView = rootView;
+    this.cardContainer = cardContainer;
     this.imageView1 = imageView1;
     this.materialDivider = materialDivider;
     this.role = role;
@@ -86,6 +91,12 @@ public final class FragmentGradesBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.cardContainer;
+      LinearLayout cardContainer = ViewBindings.findChildViewById(rootView, id);
+      if (cardContainer == null) {
+        break missingId;
+      }
+
       id = R.id.imageView1;
       ImageView imageView1 = ViewBindings.findChildViewById(rootView, id);
       if (imageView1 == null) {
@@ -124,8 +135,8 @@ public final class FragmentGradesBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentGradesBinding((FrameLayout) rootView, imageView1, materialDivider, role, s,
-          tableLayout, textInputLayout, textView6);
+      return new FragmentGradesBinding((FrameLayout) rootView, cardContainer, imageView1,
+          materialDivider, role, s, tableLayout, textInputLayout, textView6);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -6,7 +6,11 @@ color dirtyWhite
 color gray
 color green
 color header_background
+color maroon
+color maroon_light
 color white
+color yellow
+color yellow_light
 dimen fab_margin
 drawable add_icon
 drawable applogo
